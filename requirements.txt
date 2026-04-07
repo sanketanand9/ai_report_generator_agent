@@ -1,0 +1,8 @@
+requests
+faiss-cpu
+numpy
+tavily-python
+sentence-transformers
+python-dotenv
+ollama
+reportlab
